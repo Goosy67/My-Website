@@ -1,1 +1,4 @@
 theme: jekyll-theme-Phantom
+nav_item:
+    - { url: '/', text: 'Home' }
+    - { url: '/about', text: 'About' }
